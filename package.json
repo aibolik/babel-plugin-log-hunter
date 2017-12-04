@@ -3,9 +3,10 @@
   "version": "0.0.1",
   "description": "Babel plugin that removes console logs from JavaScript code",
   "main": "index.js",
+  "repository": "git@github.com:aibolik/babel-plugin-log-hunter.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Aibol Kussain",
+  "author": "Aibol Kussain <aibolikdev@gmail.com>",
   "license": "ISC"
 }
