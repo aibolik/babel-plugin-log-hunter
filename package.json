@@ -1,0 +1,11 @@
+{
+  "name": "babel-plugin-log-hunter",
+  "version": "0.0.1",
+  "description": "Babel plugin that removes console logs from JavaScript code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aibol Kussain",
+  "license": "ISC"
+}
